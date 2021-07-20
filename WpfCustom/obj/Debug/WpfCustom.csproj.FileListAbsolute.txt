@@ -1,0 +1,12 @@
+C:\Users\Степан\source\repos\WPFexample\WpfCustom\bin\Debug\WpfCustom.dll
+C:\Users\Степан\source\repos\WPFexample\WpfCustom\bin\Debug\WpfCustom.pdb
+C:\Users\Степан\source\repos\WPFexample\WpfCustom\obj\Debug\WpfCustom_MarkupCompile.cache
+C:\Users\Степан\source\repos\WPFexample\WpfCustom\obj\Debug\WpfCustom_MarkupCompile.lref
+C:\Users\Степан\source\repos\WPFexample\WpfCustom\obj\Debug\Button.baml
+C:\Users\Степан\source\repos\WPFexample\WpfCustom\obj\Debug\WpfCustom.g.resources
+C:\Users\Степан\source\repos\WPFexample\WpfCustom\obj\Debug\WpfCustom.Properties.Resources.resources
+C:\Users\Степан\source\repos\WPFexample\WpfCustom\obj\Debug\WpfCustom.csproj.GenerateResource.cache
+C:\Users\Степан\source\repos\WPFexample\WpfCustom\obj\Debug\WpfCustom.csproj.CoreCompileInputs.cache
+C:\Users\Степан\source\repos\WPFexample\WpfCustom\obj\Debug\WpfCustom.dll
+C:\Users\Степан\source\repos\WPFexample\WpfCustom\obj\Debug\WpfCustom.pdb
+C:\Users\Степан\source\repos\WPFexample\WpfCustom\obj\Debug\WpfCustom.csprojAssemblyReference.cache
